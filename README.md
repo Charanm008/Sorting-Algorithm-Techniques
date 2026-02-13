@@ -17,7 +17,7 @@ This repository focuses on:
 Bubble Sort  
 Selection Sort  
 Insertion Sort  
-Merge Sort  
+Merge Sort (To Be Updated: )  
 Quick Sort  
 Heap Sort  
 Counting Sort  

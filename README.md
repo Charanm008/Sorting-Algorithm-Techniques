@@ -11,7 +11,6 @@ This repository focuses on:
 
 ![Language](https://img.shields.io/badge/Language-Java-orange)
 ![DSA](https://img.shields.io/badge/DSA-Sorting-blue)
-![Sorting](https://img.shields.io/badge/Topic-Sorting-green)
 
 #### 📂 Algorithms Covered
 

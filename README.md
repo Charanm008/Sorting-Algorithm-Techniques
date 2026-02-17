@@ -175,7 +175,7 @@ Fixed-length integers
 
 ---
 ## 🧠 Which Sorting Algorithm Should I Use?
-SituationBest AlgorithmSmall / nearly sorted dataInsertion SortLarge dataset, stable sortMerge SortFast average performanceQuick SortLimited memoryHeap SortIntegers with small rangeCounting SortLarge numbers (digits)Radix Sort
+SituationBest AlgorithmSmall / nearly sorted dataInsertion SortLarge dataset, stable sortMerge SortFast average performanceQuick SortLimited memoryHeap SortIntegers with small rangeCounting SortLarge numbers (digits) Radix Sort
 
 ## 🚀 Getting Started
 Clone the Repository  
